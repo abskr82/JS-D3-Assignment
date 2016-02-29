@@ -1,0 +1,1 @@
+Really… that’s it. Easy, right? Obviously there are some important best practices as well, but before we dig into those lets put together a real-life example with the basic method
